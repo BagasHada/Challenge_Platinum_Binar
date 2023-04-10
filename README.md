@@ -1,1 +1,1 @@
-Seluruh Model Terdapat di Drive
+Models (LST, MLP, & RNN) terdapat di drive
