@@ -1,1 +1,1 @@
-Models (LST, MLP, & RNN) terdapat di drive
+Models (LST, MLP, & RNN) in drive
